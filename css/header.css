@@ -1,0 +1,27 @@
+header {
+  background-color: #0005;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 80px;
+}
+
+.menu ul {
+  display: flex;
+  color: #fff;
+  list-style: none;
+  gap: 30px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  transition: color 0.5s;
+  font-size: 20px;
+}
+
+.menu a:hover {
+  color: darkred;
+}
