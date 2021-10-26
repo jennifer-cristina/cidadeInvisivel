@@ -9,7 +9,7 @@ header {
 
 .menu ul {
   display: flex;
-  color: #fff;
+  color: rgb(65, 189, 34);
   list-style: none;
   gap: 30px;
 }
